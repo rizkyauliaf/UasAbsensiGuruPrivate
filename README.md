@@ -1,3 +1,3 @@
 # UasAbsensiGuruPrivate
-Username : riris
-Passwor : riris
+Username : riris,
+Password : riris
